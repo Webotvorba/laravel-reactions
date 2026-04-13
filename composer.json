@@ -23,7 +23,7 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/binafy/laravel-reactions",
+    "homepage": "https://github.com/webotvorba/laravel-reactions",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
