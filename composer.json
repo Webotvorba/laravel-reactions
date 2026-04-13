@@ -1,5 +1,5 @@
 {
-    "name": "binafy/laravel-reactions",
+    "name": "webotvorba/laravel-reactions",
     "description": "Laravel Reactions is a simple and flexible package that allows you to add reaction functionality to any Eloquent model",
     "keywords": [
         "laravel reactions",
